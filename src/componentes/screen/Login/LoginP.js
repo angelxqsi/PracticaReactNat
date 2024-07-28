@@ -5,7 +5,7 @@ const LoginP = () => {
   return (
     <View style={styles.contenedor}>
       <Text style={styles.titulo}>HOLA</Text>
-      <Text style={styles.titulo2}>Iniciar secion</Text>
+      <Text style={styles.titulo2}>Iniciar sesion</Text>
       <View style={styles.contenedorinput}>
         <TextInput
         style={styles.input}
